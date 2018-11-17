@@ -1,0 +1,46 @@
+#image {
+    width: 100vw;
+}
+
+#title {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+#title h1 {
+    font-size: 3rem;
+}
+
+#img-caption {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+ul li {
+    list-style: none;
+    margin-bottom: 50px;
+}
+
+#tribute-info h3 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#tribute-info {
+    width: 60vw;
+    margin: auto;
+    line-height: 1.5rem;
+    
+    padding: 20px;
+    color: #333333;
+    margin-bottom: 50px;
+}
+
+#tribute-link {
+    text-align: center;
+}
+
+#main {
+    text-align: center;
+}
+
