@@ -1,5 +1,8 @@
 #image {
-    width: 100vw;
+    display: block;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 10px;
 }
 
 #title {
@@ -11,13 +14,17 @@
     font-size: 3rem;
 }
 
-#img-caption {
-    text-align: center;
-    margin-bottom: 50px;
+#quote {
+    font-size: 1.2rem;
+    color: #333333;
 }
 
-ul li {
-    list-style: none;
+#img-caption {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+section {
     margin-bottom: 50px;
 }
 
@@ -26,21 +33,25 @@ ul li {
     margin-bottom: 50px;
 }
 
+h4 {
+    margin-bottom: 10px;
+}
+
 #tribute-info {
     width: 60vw;
     margin: auto;
     line-height: 1.5rem;
-    
-    padding: 20px;
     color: #333333;
-    margin-bottom: 50px;
-}
-
-#tribute-link {
+    margin-top: 50px;
+    margin-bottom: 80px;
     text-align: center;
 }
 
-#main {
-    text-align: center;
+footer {
+text-align: center;
+background-color: #f2f2f2;
+padding: 20px;
 }
+
+
 
